@@ -18,5 +18,8 @@ class ViewController: UIViewController {
     func showAllData() {
         //This function will show data for all branches
     }
+    func showreleasedata() {
+        //release branch
+    }
 }
 
