@@ -15,5 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    func showAllData() {
+        //This function will show data for all branches
+    }
 }
 
